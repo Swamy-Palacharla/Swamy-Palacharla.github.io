@@ -1,0 +1,7 @@
+{
+  "name": "swamy-palacharla-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static personal portfolio for Palacharla Swamy",
+  "scripts": { "start": "node server.cjs", "check": "node --check script.js" }
+}
